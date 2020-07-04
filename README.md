@@ -1,2 +1,2 @@
-# Scientific Computin with Python
+# Data Analysis with Python
  Certification projects for FCC
