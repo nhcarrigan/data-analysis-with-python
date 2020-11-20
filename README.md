@@ -7,7 +7,7 @@ These are my files for the Data Analysis with Python curriculum projects on Free
 
 ## Live Version
 
-These files are currently not deployed.
+This page is currently deployed. [View the live website](https://www.nhcarrigan.com/data-analysis-with-python/).
 
 ## Feedback and Bugs
 
